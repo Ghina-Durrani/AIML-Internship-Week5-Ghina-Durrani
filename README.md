@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the AI/ML Internship Week 5 task on Supervised Learning — Classification. The Titanic dataset was used to predict passenger survival using multiple machine learning classification models.
+This project was completed as part of the AI/ML Internship Week 5 task on Supervised Learning Classification. The Titanic dataset was used to predict passenger survival using multiple machine learning classification models.
 
 ---
 
@@ -83,5 +83,4 @@ Random Forest achieved the best overall classification performance with strong g
 
 ## Dashboard Preview
 
-```markdown
 ![Dashboard](week5_dashboard.png)
